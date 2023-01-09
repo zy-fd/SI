@@ -1,2 +1,2 @@
 # Supplementary
-Supplementary of CRL-SGNN (Please download Supplementary.pdf to read)
+Supplementary of CRL-SGNN (Please download SI.pdf to read)
